@@ -1,6 +1,4 @@
-## Hi 👋 
-
-<h1 align="center">I'm Andro_Dev</h1>
+<h1 align="center">Hi 👋. I'm Andro_Dev</h1>
 
 - 17 y.o
 - Coding since 2022
