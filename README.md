@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Andro_Dev
-- 👀 I’m interested in SCRE coding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nothin
+C# && python coder since 2022
+My project: https://t.me/nost_brawl
